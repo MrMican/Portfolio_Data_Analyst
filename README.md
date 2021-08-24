@@ -4,5 +4,5 @@ Maîtriser le langage Python pour la Data Science et mettre en place un environn
 
 ## Projets
 
-- [Academy](https://github.com/MrMican/Portfolio_Data_Analyst/Projets/P1_Academy)
-- [Rester Livres](https://github.com/MrMican/Portfolio_Data_Analyst/Projets/P2_Rester_livres)
+- [Academy](https://github.com/MrMican/Portfolio_Data_Analyst/tree/main/Projets/P1_Academy)
+- [Rester Livres](https://github.com/MrMican/Portfolio_Data_Analyst/tree/main/Projets/P2_Rester_livres)
